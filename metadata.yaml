@@ -1,5 +1,5 @@
 _repo: Vittoria-Volume-7_4441
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Historical fiction'
 - !lcsh 'War stories'
 - !lcc 'PR'
+- GITenberg
 title: Vittoria — Volume 7
 url: http://www.gutenberg.org/ebooks/4441
